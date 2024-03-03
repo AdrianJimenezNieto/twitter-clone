@@ -1,3 +1,0 @@
-# Ignore env folder
-env
-.env
